@@ -1,4 +1,3 @@
-Here's a concise description of the AI-Powered Resume Analyzer project:
 
 Project Name: AI Resume Analyzer
 
@@ -38,5 +37,3 @@ Unique Selling Points:
 - Real-time job market matching
 - Automated interview preparation
 - User-friendly interface
-
-Would you like me to elaborate on any aspect of the project?
